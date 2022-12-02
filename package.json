@@ -1,6 +1,6 @@
 {
-  "name": "@ranvijay/react-native-otp-input",
-  "version": "1.0.0",
+  "name": "@ranvijay12/react-native-otp-input",
+  "version": "1.1.0",
   "description": "is a tiny JS library for one time passcode (OTP). Supports smart input suggestion on iOS and code autofill on Android (it will be filled when you press the copy button on the SMS notification bar)",
   "main": "./dist/index.js",
   "types": "./index.d.ts",
@@ -28,6 +28,9 @@
     "transform": {
       "^.+\\.jsx$": "babel-jest"
     }
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",

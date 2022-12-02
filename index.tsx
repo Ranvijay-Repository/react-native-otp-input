@@ -3,7 +3,7 @@
 import {
   InputProps,
   OTPInputViewState,
-} from "@twotalltotems/react-native-otp-input";
+} from "@ranvijay12/react-native-otp-input";
 import React, { Component } from "react";
 import {
   View,
